@@ -9,18 +9,6 @@
 
     <body>	
 
-    	<p> Scatterplot 1: </p>
-    	<div id="scatter1"></div>
-    	
-			<p> Scatterplot 2: </p>
-    	<div id="scatter2"></div>
-			
-			<p> Scatterplot 3: </p>
-    	<div id="scatter3"></div>
-
-			<p> Scatterplot 4: </p>
-    	<div id="movies"></div>
-
 			<script type="module">
 
 				// Load the Observable runtime and inspector.
@@ -31,20 +19,7 @@
 
 				// Load the notebook, observing its cells with a default Inspector
 				// that simply renders the value of each cell into the provided DOM node.
-				new Runtime().module(notebook, name => {
-					if (name === "scatter1") {
-						return new Inspector(document.querySelector("#scatter1"));
-					}
-					if (name === "scatter2") {
-						return new Inspector(document.querySelector("#scatter2"));
-					}
-					if (name === "scatter3") {
-						return new Inspector(document.querySelector("#scatter3"));
-					}
-					if (name === "movies") {
-						return new Inspector(document.querySelector("#movies"));
-					}
-				});
+				new Runtime().module(notebook, Inspector.into(document.body));
 
 			</script>			
 			
