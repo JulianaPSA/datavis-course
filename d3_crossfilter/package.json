@@ -1,0 +1,14 @@
+{
+  "name": "@julianapsa/d3-com-crossfilter-e-dc-js",
+  "main": "d/03ac136f7beee1e5.js",
+  "version": "395.0.0",
+  "homepage": "https://observablehq.com/@julianapsa/d3-com-crossfilter-e-dc-js",
+  "author": {
+    "name": "julianapsa",
+    "url": "https://observablehq.com/@julianapsa"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
