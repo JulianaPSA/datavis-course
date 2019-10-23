@@ -1,0 +1,14 @@
+{
+  "name": "@julianapsa/similar-song-network/2",
+  "main": "d/2e98fdb45d8804e1.js",
+  "version": "76.0.0",
+  "homepage": "https://observablehq.com/@julianapsa/similar-song-network/2",
+  "author": {
+    "name": "julianapsa",
+    "url": "https://observablehq.com/@julianapsa"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

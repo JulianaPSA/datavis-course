@@ -1,3 +1,14 @@
+## Aula Networks e Árvore em D3
+
+[index.html](d3_network/index.html)<br>
+
+---
+## Aula do dia 16/10/2019 - d3 Color
+
+[index.html](d3_color/index.html)<br>
+
+---
+
 ## Aula do dia 30/09/2019
 
 [index.html](d3_leaflet/index.html)<br>
