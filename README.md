@@ -4,15 +4,21 @@
 
 ---
 
-## Aula Networks e Árvore em D3
+## Aula Networks e Árvore em D3 - Similar Song
 
-[index.html](d3_network/index.html)<br>
+[index.html](d3_network/similar-song-network/index.html)<br>
 
 ---
 
-## Aula do dia 16/10/2019 - d3 Color
+## Aula D3 Color - Taxa Homicidios Fortaleza
 
-[index.html](d3_color/index.html)<br>
+[index.html](d3_color/homicidios-em-fortaleza-em-2012/index.html)<br>
+
+---
+
+## Aula D3 Color - Taxa Desemprego EUA
+
+[index.html](d3_color/taxa-de-desemprego-nos-eua-em-agosto-de-2016/index.html)<br>
 
 ---
 
