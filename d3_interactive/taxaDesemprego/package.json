@@ -1,0 +1,14 @@
+{
+  "name": "3cf0d529e34508e3",
+  "main": "d/3cf0d529e34508e3.js",
+  "version": "90.0.0",
+  "homepage": "https://observablehq.com/d/3cf0d529e34508e3",
+  "author": {
+    "name": "julianapsa",
+    "url": "https://observablehq.com/@julianapsa"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}

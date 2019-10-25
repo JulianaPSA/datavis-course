@@ -1,3 +1,9 @@
+## Aula Interactive - Taxa Desemprego EUA (parte 2)
+
+[index.html](d3_interactive/taxaDesemprego/index.html)<br>
+
+---
+
 ## Aula Networks e Árvore em D3 - Les Miserables
 
 [index.html](d3_network/les-miserables/index.html)<br>
