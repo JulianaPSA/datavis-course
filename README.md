@@ -1,5 +1,11 @@
 ## Aula Interactive - Taxa Desemprego EUA (parte 2)
 
+[index.html](d3_interactive/d3-com-crossfilter-dc-js-e-leaflet-parte-2/index.html)<br>
+
+---
+
+## Aula Interactive - Taxa Desemprego EUA (parte 2)
+
 [index.html](d3_interactive/taxaDesemprego/index.html)<br>
 
 ---
