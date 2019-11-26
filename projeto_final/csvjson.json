@@ -1,0 +1,22 @@
+[
+  {
+    "Priority": "Blocker",
+    "nResolutionDays": 30.03030303030303
+  },
+  {
+    "Priority": "Critical",
+    "nResolutionDays": 35.810810810810814
+  },
+  {
+    "Priority": "Major",
+    "nResolutionDays": 26.267857142857142
+  },
+  {
+    "Priority": "Minor",
+    "nResolutionDays": 13.766666666666667
+  },
+  {
+    "Priority": "Trivial",
+    "nResolutionDays": 15.222222222222221
+  }
+]
